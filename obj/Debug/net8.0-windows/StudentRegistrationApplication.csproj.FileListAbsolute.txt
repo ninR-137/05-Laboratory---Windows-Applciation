@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.frmStudentInfo.resources
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.exe
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.deps.json
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.runtimeconfig.json
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.dll
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.pdb
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.dll
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\refint\StudentRegistrationApplication.dll
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.pdb
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\ref\StudentRegistrationApplication.dll
